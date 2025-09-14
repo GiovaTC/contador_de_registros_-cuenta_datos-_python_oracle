@@ -14,8 +14,9 @@ Ejecuta en **SQL*Plus** con un usuario administrador (ej: `SYS` o `SYSTEM`):
 CREATE USER demo_user IDENTIFIED BY demo_pass;
 
 -- Dar permisos básicos
-GRANT CONNECT, RESOURCE TO demo_user;
-ALTER USER demo_user QUOTA UNLIMITED ON USERS;
+GRANT CONNECT, RESOURCE TO C##demo_user;
+ALTER USER C##demo_user QUOTA UNLIMITED ON USERS;
+
 2️⃣ Crear tabla de ejemplo
 Conéctate como el usuario recién creado (demo_user) y crea la tabla EMPLOYEES:
 
