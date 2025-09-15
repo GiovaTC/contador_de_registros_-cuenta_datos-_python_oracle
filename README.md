@@ -40,10 +40,10 @@ python
 
 import oracledb
 
-# Datos de conexión
-username = "C##demo_user"
-password = "demo_pass"
-dsn = "localhost:1521/xe"   # Cambia 'xe' si usas otro servicio (ej: orclpdb1)
+# datos de conexion
+username = "system"
+password = "Tapiero123"
+dsn = "localhost:1521/orcl"
 
 try:
     # Conexión
