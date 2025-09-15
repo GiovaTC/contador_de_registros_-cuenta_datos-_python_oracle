@@ -1,6 +1,8 @@
 # contador_de_registros_-cuenta_datos-_python_oracle
 # 📊 Contador de Registros en Oracle con Python
 
+<img width="2552" height="1079" alt="image" src="https://github.com/user-attachments/assets/082a3969-cf65-4ec2-8124-944d754aa4fe" />
+
 Este proyecto muestra cómo conectarse a una base de datos **Oracle** usando el paquete [`oracledb`](https://python-oracledb.readthedocs.io/) (sucesor de `cx_Oracle`) y realizar una consulta para **contar registros en una tabla** .
 
 ---
