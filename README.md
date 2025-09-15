@@ -1,4 +1,5 @@
-<img width="2446" height="856" alt="image" src="https://github.com/user-attachments/assets/cedcd7f4-9d0e-485c-a721-a60d3de21e9b" /> # contador_de_registros_-cuenta_datos-_python_oracle
+<img width="2446" height="856" alt="image" src="https://github.com/user-attachments/assets/cedcd7f4-9d0e-485c-a721-a60d3de21e9b" />
+# contador_de_registros_-cuenta_datos-_python_oracle
 # 📊 Contador de Registros en Oracle con Python
 
 <img width="2553" height="1079" alt="image" src="https://github.com/user-attachments/assets/e2b7c2b9-99fc-4cac-a659-da4fd886c8b1" />
