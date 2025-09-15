@@ -1,7 +1,7 @@
 import oracledb
 
 # datos de conexion
-username = "C##demo_user"
+username = "system"
 password = "Tapiero123"
 dsn = "localhost:1521/orcl"
 
