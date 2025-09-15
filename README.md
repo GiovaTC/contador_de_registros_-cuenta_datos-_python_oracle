@@ -1,4 +1,5 @@
 <img width="203" height="193" alt="image" src="https://github.com/user-attachments/assets/acd0ce8a-579d-497b-a76e-797430d0bb13" />
+
 # contador_de_registros_-cuenta_datos-_python_oracle
 # 📊 Contador de Registros en Oracle con Python
 
